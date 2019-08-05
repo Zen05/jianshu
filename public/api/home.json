@@ -1,0 +1,69 @@
+{
+    "success": true,
+    "data":{
+        "topicList":[{
+            "id":1,
+            "title":"社会热点",
+            "imgUrl":"http://localhost:3000/img/img.jpg"
+        },{
+            "id":2,
+            "title":"社会热点",
+            "imgUrl":"http://localhost:3000/img/img.jpg"
+        },{
+            "id":3,
+            "title":"社会热点",
+            "imgUrl":"http://localhost:3000/img/img.jpg"
+        },{
+            "id":4,
+            "title":"社会热点",
+            "imgUrl":"http://localhost:3000/img/img.jpg"
+        },{
+            "id":5,
+            "title":"社会热点",
+            "imgUrl":"http://localhost:3000/img/img.jpg"
+        }],
+        "articleList":[{
+            "id":1,
+            "title":"50句极美的句子，文艺而又有韵味",
+            "desc":"1.世界上所有的相遇都是久别重逢。 2.鲜衣怒马少年时，一日看尽长安花。 3.愿岁月可回首，且以深情共白头。 4.草在结它的种子，风在摇它的叶子...",
+            "imgUrl":"http://localhost:3000/img/img1.jpg",
+            "author":"作者1",
+            "common":"1000",
+            "like":"801",
+            "grade":"13.5"
+        },{
+            "id":2,
+            "title":"50句极美的句子，文艺而又有韵味",
+            "desc":"1.世界上所有的相遇都是久别重逢。 2.鲜衣怒马少年时，一日看尽长安花。 3.愿岁月可回首，且以深情共白头。 4.草在结它的种子，风在摇它的叶子...",
+            "imgUrl":"http://localhost:3000/img/img1.jpg",
+            "author":"作者2",
+            "common":"1000",
+            "like":"802",
+            "grade":"13.5"
+        },{
+            "id":3,
+            "title":"50句极美的句子，文艺而又有韵味",
+            "desc":"1.世界上所有的相遇都是久别重逢。 2.鲜衣怒马少年时，一日看尽长安花。 3.愿岁月可回首，且以深情共白头。 4.草在结它的种子，风在摇它的叶子...",
+            "imgUrl":"http://localhost:3000/img/img1.jpg",
+            "author":"作者3",
+            "common":"1000",
+            "like":"803",
+            "grade":"13.5"
+        },{
+            "id":4,
+            "title":"50句极美的句子，文艺而又有韵味",
+            "desc":"1.世界上所有的相遇都是久别重逢。 2.鲜衣怒马少年时，一日看尽长安花。 3.愿岁月可回首，且以深情共白头。 4.草在结它的种子，风在摇它的叶子...",
+            "imgUrl":"http://localhost:3000/img/img1.jpg",
+            "author":"作者4",
+            "common":"1000",
+            "like":"804",
+            "grade":"13.5"
+        }],
+        "recommendList":[
+            {"id":1,"imgUrl":"http://localhost:3000/img/jianshuhuiyuan.png"},
+            {"id":2,"imgUrl":"http://localhost:3000/img/youxianlianzai.png"},
+            {"id":3,"imgUrl":"http://localhost:3000/img/jianshubanquan.png"},
+            {"id":4,"imgUrl":"http://localhost:3000/img/jianshudaxuetang.png"}
+        ]
+    }
+}
